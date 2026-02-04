@@ -88,9 +88,7 @@ Our enterprise surveillance deployments focus on reliability, redundancy, and ce
 
 J3K Technologies supports a wide range of institutional environments including educational campuses, government facilities, research centers, and enterprise organizations. Our work as an institutional surveillance partner focuses on consistency, transparency, and long-term value.
 
-Learn more about institutional security planning and surveillance integration at < > and < >.
-
----
+--
 
 ## Long-Term Institutional Surveillance Value
 
